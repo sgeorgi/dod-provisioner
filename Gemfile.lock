@@ -80,8 +80,6 @@ GEM
     thor (0.19.1)
     timers (4.0.0)
       hitimes
-    vagrant-berkshelf (3.0.1)
-      buff-shell_out
     varia_model (0.4.0)
       buff-extensions (~> 1.0)
       hashie (>= 2.0.2, < 3.0.0)
@@ -91,4 +89,3 @@ PLATFORMS
 
 DEPENDENCIES
   berkshelf
-  vagrant-berkshelf
