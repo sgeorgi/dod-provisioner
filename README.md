@@ -43,8 +43,7 @@ block. You can also reference recipes or run_lists of your own local cookbook/ch
 
 ## TO-DO
 
- * Build custom cookbook to do basic provisioning for my needs and maybe oursource that into a seperate repository and 
- reference in Berksfile.
+ * This project is discontinued as I focus on setting Bosh + CloudFoundy on my own hardware in the future. 
 
 ## WARNING
 
